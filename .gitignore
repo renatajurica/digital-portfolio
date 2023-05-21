@@ -1,0 +1,4 @@
+**/*.log
+**/*.LOG
+_build
+.ipynb_checkpoints
